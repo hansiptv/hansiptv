@@ -1,0 +1,17 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="",COMBATE
+http://us12.server.kkdelta.xyz/HD_COMBATE/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title="",HISTORY
+https://us11.kromeo.live/HD_HISTORY/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title="",RECORD HD
+http://us12.server.kecho.store/HD_RECORD_SP/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title=""SPORTV HD
+http://pl.server.kcharlie.xyz/HD_SPORTV_1_ALTER/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title=""SPORTV 2 HD
+http://us13.server.kkzulu.xyz/SD_SPORTV_2/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title=""SPORTV 3 HD
+http://us12.server.kkgolf.xyz/HD_SPORTV_3/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title=""MULTISHOW HD
+http://ge.server.kwhiskey.live/HD_MULTISHOW/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title=""CINEMAX HD
+http://us13.server.kkzulu.xyz/HD_CINEMAX/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0

@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTINF:0 tvg-logo="" group-title="",canalcombat
+http://us12.server.kkdelta.xyz/HD_COMBATE/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title="",history chanel
+https://us11.kromeo.live/HD_HISTORY/video.m3u8?token=fff0087e549dce336c44c05b8324ddc0
+#EXTINF:0 tvg-logo="" group-title="",record hd
+http://us12.server.kktango.xyz/HD_RECORD/2020/01/16/01/53/16-05000.ts?token=fff0087e549dce336c44c05b8324ddc0

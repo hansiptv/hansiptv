@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/qnnt6a" group-title="CANAIS VIPS",Sport TV HD
+http:\\lb.kstream.org\aovivo\HD_SPORTV_1\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/6YfsNt" group-title="CANAIS VIPS",Universal Channel HD
+http:\\lb.kstream.org\aovivo\HD_STUDIO_UNIVERSAL\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/Qpj6Pv" group-title="CANAIS VIPS",TOONCAST
+http:\\lb.kstream.org\aovivo\HD_TOONCAST\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/TjUYE4" group-title="CANAIS VIPS",Multishow HD
+http:\\lb.kstream.org\aovivo\HD_MULTISHOW\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/WUAF5F" group-title="CANAIS VIPS",Megapix HD
+http:\\lb.kstream.org\aovivo\HD_HISTORY\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/pWobj3" group-title="CANAIS VIPS",History Channel HD
+http:\\lb.kstream.org\aovivo\HD_HISTORY\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/UCAXce" group-title="CANAIS VIPS",FOX HD
+http:\\lb.kstream.org\aovivo\HD_FOX\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/Cyr46X" group-title="CANAIS VIPS",Discovery Turbo HD
+http:\\lb.kstream.org\aovivo\HD_DISCOVERY_TURBO\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/4S6eT5" group-title="CANAIS VIPS",Discovery Channel HD
+http:\\lb.kstream.org\aovivo\HD_DISCOVERY\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/KvysRk" group-title="CANAIS VIPS",Combate HD
+http:\\lb.kstream.org\aovivo\HD_COMBATE\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/Jv6RqL" group-title="CANAIS VIPS",Animal Planet HD
+http:\\lb.kstream.org\aovivo\HD_ANIMAL_PLANET\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/bR4xV4" group-title="CANAIS VIPS",Space HD
+http:\\lb.kstream.org\aovivo\HD_SPACE\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS VIPS",Telecine Premium HD
+http:\\lb.kstream.org\aovivo\HD_TC_PREMIUM\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/n6PLi8" group-title="CANAIS VIPS",Telecine Action HD
+http:\\lb.kstream.org\aovivo\HD_TC_ACTION\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/uV8Y5R" group-title="CANAIS VIPS",TCM
+http:\\lb.kstream.org\aovivo\HD_TCM\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT HD 1080"  tvg-logo="http://i.imgur.com/Jotugf0.png" group-title="CANAIS VIPS",SBT HD 
+http:\\lb.kstream.org\aovivo\HD_SBT\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-logo="https://listaiptvbrasil.com/logo/globo.png" group-title="CANAIS VIPS",Globo HD
+http:\\lb.kstream.org\aovivo\SD_GLOBO_INTERTV_SERRA_MAR\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="Rederecord.br" tvg-logo="http://i.imgur.com/5UeQAk9.png" group-title="CANAIS VIPS",RECORD HD
+http:\\lb.kstream.org\aovivo\HD_RECORD\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
+#EXTINF:-1 tvg-id="" tvg-logo="https://goo.gl/yDFA8i" group-title="CANAIS VIPS", ESPN BRASIL 
+http:\\lb.kstream.org\aovivo\HD_ESPN_BRASIL\video.m3u8?token=de6e1fb25d67d9f839dd09475888e325
